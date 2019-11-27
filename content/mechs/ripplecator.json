@@ -1,0 +1,23 @@
+{
+  "name": "Ripplecator",
+  "description": "Quite a dangerous combat unit, with a large margin of health.",
+  "speed": 0.2,
+  "boostSpeed": 0.7,
+  "mass": 20,
+  "buildPower": 3.0,
+  "engineColor": "FFE867",
+  "flying": false,
+  "health": 1500,
+  "damage": 300,
+  "weaponOffsetX": -13.6,
+  "weapon": {
+    "name": "swarmer",
+    "range": 450,
+    "width": -17.6,
+    "reload": 6,
+    "shots": 2,
+    "recoil": 2.5,
+    "alternate": true,
+    "bullet": "missileSurge"
+  }
+}
