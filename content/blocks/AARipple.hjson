@@ -22,7 +22,7 @@ ammo: {
   }
 }
 requirements: [
-   silicon/70
+  silicon/70
   copper/140
 ]
 category: turret
