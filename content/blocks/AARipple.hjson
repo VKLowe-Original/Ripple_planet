@@ -1,4 +1,4 @@
-type: ItemTurret
+type: BurstTurret
 name: AARipple
 description: Anti-Air  ripple
 health: 200
@@ -22,8 +22,10 @@ ammo: {
   }
 }
 requirements: [
-  silicon/70
+   silicon/70
   copper/140
+  lead/120
+  silenium/96
 ]
 category: turret
 research: duo

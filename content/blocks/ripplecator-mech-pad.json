@@ -3,14 +3,14 @@
 	"description": "Transform into the Electra mech.",
 	"type": "MechPad",
 	"mech": "ripplecator",
-	"size": 2,
+	"size": 5,
 	"consumes": {
-		"power": 0.7
+		"power": 5.7
 	},
 	"category": "upgrade",
 	"research": "wraith-factory",
 	"requirements": [
-		{ "item": "silicon", "amount": 40 },
-		{ "item": "graphite", "amount": 50 },
+		{ "item": "silenium", "amount": 2000 },
+		{ "item": "rubber", "amount": 2400 },
 	]
 }

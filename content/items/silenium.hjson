@@ -1,0 +1,6 @@
+type: material
+name: Silenium
+description: A rare resource.
+hardness: 2
+cost: 2
+color: ff99ff

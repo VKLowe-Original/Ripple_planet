@@ -14,8 +14,8 @@
     "name": "swarmer",
     "range": 450,
     "width": -17.6,
-    "reload": 6,
-    "shots": 2,
+    "reload": 12,
+    "shots": 3,
     "recoil": 2.5,
     "alternate": true,
     "bullet": "missileSurge"

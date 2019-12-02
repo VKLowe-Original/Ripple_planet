@@ -20,8 +20,9 @@ ammo: {
   }
 }
 requirements: [
-   silicon/40
+   lead/40
   copper/70
+  silenium/50
 ]
 category: turret
 research: duo

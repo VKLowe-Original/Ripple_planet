@@ -1,0 +1,32 @@
+type: Cultivator
+name: Latexator
+description: Combines molten silver and gold powder to produce electrum.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+outputLiquid: {
+  liquid: latex
+  amount: 10
+}
+attribute: water
+consumes: {
+  power: 0.7
+  liquid: {
+    liquid: water
+    amount: 0.5
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+  silenium/100
+]
+category: crafting
+research: duo
+idleSound: respawning
+idleSoundVolume: 0.5

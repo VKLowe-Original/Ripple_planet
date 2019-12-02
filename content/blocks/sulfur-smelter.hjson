@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Sulfur Smelter
+description: oil.
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: true
+craftTime: 60
+flameColor: e99f99
+updateEffect: steam
+consumes: {
+  power: 1.4
+    liquid: {
+    liquid: oil
+    amount: 0.4
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+  silenium/100
+]
+category: crafting
+research: duo
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: sulfur/1

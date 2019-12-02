@@ -1,0 +1,35 @@
+type: GenericCrafter
+name: rezina Smelter
+description: oil.
+liquidCapacity: 20
+size: 3
+hasPower: true
+hasItems: true
+hasliquid: trur
+craftTime: 60
+flameColor: e99f99
+updateEffect: steam
+consumes: {
+  power: 1.4
+    items: {
+    items: [
+		sulfur/2
+    ]
+  }
+    liquid: {
+    liquid: latex
+    amount: 0.5
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+  silenium/100
+  copper/110
+]
+category: crafting
+research: duo
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: rubber/1

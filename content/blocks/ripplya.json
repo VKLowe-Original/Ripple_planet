@@ -28,9 +28,9 @@
 		}
 	},
 	"requirements": [
-		{ "item": "silicon", "amount": 60 },
-		{ "item": "titanium", "amount": 125 },
-		{ "item": "lead", "amount": 173 }
+		{ "item": "silicon", "amount": 120 },
+		{ "item": "titanium", "amount": 325 },
+		{ "item": "lead", "amount": 273 }
 	],
 	"category": "turret",
 	"research": "duo"

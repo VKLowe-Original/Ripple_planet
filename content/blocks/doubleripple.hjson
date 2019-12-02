@@ -1,0 +1,29 @@
+type: DoubleTurret
+name: double defense Turret
+description: Sprays useless silver bullets everywhere. What a mess.
+health: 700
+size: 5
+reload: 10
+range: 300
+ammoUseEffect: shellEjectSmall
+inaccuracy: 10
+rotatespeed: 12
+ammo: {
+  thorium: {
+    speed: 10
+    damage: 300
+    bulletWidth: 20
+    bulletHeight: 30
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  surge-alloy/350
+  copper/400
+  rubber/220
+  silenium/640
+]
+category: turret
+research: duo
