@@ -1,4 +1,5 @@
 # Ripple_planet
-Ripple :)
 Это мод для MINDUSTRY
-Если че писать на почту vklowe@petruchio.org.ru
+Если че писать на почту 
+# vklowe@petruchio.org.ru
+# https://petruchio.org.ru/wiki/index.php/VKLowe
