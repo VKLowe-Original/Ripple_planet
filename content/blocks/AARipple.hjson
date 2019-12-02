@@ -13,7 +13,7 @@ rotatespeed: 12
 ammo: {
   copper: {
     speed: 7
-    damage: 60
+    damage: 90
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
