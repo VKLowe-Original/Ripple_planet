@@ -9,7 +9,7 @@
   "flying": false,
   "health": 1500,
   "damage": 300,
-  "weaponOffsetX": -13.6,
+  "weaponOffsetX": -14.5,
   "weapon": {
     "name": "swarmer",
     "range": 450,
