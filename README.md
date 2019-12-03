@@ -1,7 +1,4 @@
 # Ripple_planet
-Это мод для MINDUSTRY
-Если че писать на почту 
-# Почта: vklowe@petruchio.org.ru
-# О VKLowe: https://petruchio.org.ru/wiki/index.php/VKLowe
-# Помогает с модом: DefenseX
-# Дрочу readme
+* Почта: vklowe@petruchio.org.ru
+* О VKLowe: https://petruchio.org.ru/wiki/index.php/VKLowe
+* Помогает с модом: https://github.com/DefenseX
