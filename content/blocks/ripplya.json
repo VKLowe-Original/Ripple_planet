@@ -13,7 +13,7 @@
 	"ammo": {
 		"silicon": {
 			"speed": 3.0,
-			"damage": 200,
+			"damage": 70,
 			"bulletWidth": 10,
 			"bulletHeight": 9,
 			"hiteffect": "artilleryExplosive",
@@ -21,7 +21,7 @@
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 5,
 			"splashDamageRadius": 50,
-			"splashDamage": 100,
+			"splashDamage": 40,
 			"bulletcolor": "#58a13d",
 			"trailcolor": "#58a13d",
 			"trailEffect": "missileTrail"
@@ -30,7 +30,8 @@
 	"requirements": [
 		{ "item": "silicon", "amount": 120 },
 		{ "item": "titanium", "amount": 325 },
-		{ "item": "lead", "amount": 273 }
+		{"item": "silenium", "amount": 600},
+		{ "item": "rubber", "amount": 273 }
 	],
 	"category": "turret",
 	"research": "duo"

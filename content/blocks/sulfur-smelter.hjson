@@ -1,18 +1,18 @@
 type: GenericCrafter
 name: Sulfur Smelter
 description: oil.
-liquidCapacity: 50
+liquidCapacity: 70
 size: 3
 hasPower: true
 hasLiquids: true
-craftTime: 60
+craftTime: 40
 flameColor: e99f99
 updateEffect: steam
 consumes: {
   power: 1.4
     liquid: {
     liquid: oil
-    amount: 0.4
+    amount: 0.2
   }
 }
 requirements: [

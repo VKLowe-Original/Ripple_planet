@@ -3,7 +3,7 @@ name: AARipple
 description: Anti-Air  ripple
 health: 200
 targetair: true
-tatgetground: false
+targetground: false
 size: 2
 reload: 12
 range: 200

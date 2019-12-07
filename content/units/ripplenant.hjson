@@ -1,0 +1,19 @@
+type: flyingUnit
+name: Ripplenant
+description: Generally annoying and flashy.
+speed: 0.3
+rotateWeapon: false
+flying: true
+drag: 0.3
+health: 420
+engineOffset: 5.5
+range: 260
+attackLdnght: 260
+weapon: {
+  name: chrome-blaster
+  length: 4.5
+  reload: 25
+  alternate: true
+  speed: 3
+  bullet: artilleryUnit
+}

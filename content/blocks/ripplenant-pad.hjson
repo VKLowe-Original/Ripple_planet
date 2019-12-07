@@ -1,0 +1,21 @@
+name: Chrome Wraith Factory
+description: Makes Chrome Wraith units.
+type: UnitFactory
+unitType: ripplenant
+size: 4
+produceTime: 350
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      silicon/10
+      ]
+  }
+}
+category: units
+research: duo
+requirements: [
+  silenium/40
+  silicon/40
+  titanium/20
+]
