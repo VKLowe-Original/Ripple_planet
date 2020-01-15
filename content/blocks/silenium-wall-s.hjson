@@ -1,0 +1,10 @@
+name: Silenium Wall
+description: A wall made of silenium. Not particularly useful or interesting.
+type: Wall
+health: 400
+size: 1
+requirements: [
+  silenium/12
+]
+category: defense
+research: copper-wall

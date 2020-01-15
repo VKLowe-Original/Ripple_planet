@@ -10,15 +10,15 @@ craftTime: 60
 flameColor: e99f99
 updateEffect: steam
 consumes: {
-  power: 1.0
+  power: 1.4
     items: {
     items: [
-		sulfur/1
+		sulfur/2
     ]
   }
     liquid: {
     liquid: latex
-    amount: 0.2
+    amount: 0.5
   }
 }
 requirements: [

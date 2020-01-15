@@ -2,22 +2,25 @@ type: GenericCrafter
 name: Silenium Press
 description: Silenium Press
 size: 1
+hasPower: true
 hasItems: true
 drawrim: true
 craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
+  power: 0.1
   items: {
     items: [
-      scrap/4
+      scrap/1
     ]
   }
 }
 requirements: [
-  lead/100
+  lead/50
+  copper/60
 ]
 category: crafting
 research: duo
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: silenium/2
+outputItem: silenium/1

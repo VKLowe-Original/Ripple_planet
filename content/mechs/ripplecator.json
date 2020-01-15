@@ -3,9 +3,9 @@
   "description": "Quite a dangerous combat unit, with a large margin of health.",
   "speed": 0.2,
   "boostSpeed": 0.7,
-  "mass": 20,
+  "mass": 60,
   "buildPower": 3.0,
-  "engineColor": "FFE867",
+  "engineColor": "#FFE867",
   "flying": false,
   "health": 1500,
   "damage": 300,
@@ -14,10 +14,21 @@
     "name": "swarmer",
     "range": 450,
     "width": -17.6,
-    "reload": 12,
-    "shots": 3,
+    "weight": 8,
+    "reload": 100,
+    "shots": 1,
     "recoil": 2.5,
     "alternate": true,
-    "bullet": "missileSurge"
+    "bullet": {
+    "type": "FlakBulletType",
+    "lifetime": 200,
+    "speed": 4,
+    "splashDamageRadius": 200,
+    "splashDamage": 200,
+    "damage": 200,
+    "frontColor": "ffff00",
+    "backColor": "00ffff",
+    "fragBullets": 10
+	}
   }
 }

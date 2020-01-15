@@ -1,0 +1,10 @@
+name: Silenium Big Wall
+description: A wall made of silenium. Not particularly useful or interesting.
+type: Wall
+health: 1600
+size: 2
+requirements: [
+  silenium/48
+]
+category: defense
+research: silenium-wall-s

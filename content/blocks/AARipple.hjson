@@ -3,9 +3,9 @@ name: AARipple
 description: Anti-Air  ripple
 health: 200
 targetair: true
-targetground: false
+targetGround: false
 size: 2
-reload: 12
+reload: 20
 range: 200
 ammoUseEffect: shellEjectSmall
 inaccuracy: 6
@@ -25,7 +25,7 @@ requirements: [
    silicon/70
   copper/140
   lead/120
-  silenium/96
+  silenium/206
 ]
 category: turret
 research: duo
