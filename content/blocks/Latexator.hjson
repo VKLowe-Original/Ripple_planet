@@ -6,18 +6,18 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 60
+craftTime: 12
 updateEffect: smeltsmoke
 outputLiquid: {
   liquid: latex
-  amount: 10
+  amount: 30
 }
 attribute: water
 consumes: {
   power: 0.7
   liquid: {
     liquid: water
-    amount: 0.5
+    amount: 0.1
   }
 }
 requirements: [
