@@ -1,0 +1,30 @@
+type: BurstTurret
+name: Sniper
+description: Bullets fired from this gun have tremendous kinetic energy
+reload: 110
+heatColor: ff0000
+size: 4
+range: 670
+shots: 1
+cooldown: 70
+shootEffect: smoke
+shootSound: gaus
+ammo: {
+surge-alloy: {
+type: BasicBulletType
+damage: 1000
+hitEffect: impactsmoke
+hitSound: shootBig
+speed: 25
+fragBullets: 3
+fragBullet: flakSurge
+}
+}
+requirements: [
+   lead/440
+  copper/720
+  silenium/1034
+  rubber/243
+]
+category: turret
+research: ripple
